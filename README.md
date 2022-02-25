@@ -9,7 +9,8 @@
 	左上角file→clone repo 輸入這段gh repo clone robotfly112vr/robotfly_unity
 	*記得選要存放的位置
 -----
-	使用方法：
+![image](https://user-images.githubusercontent.com/48579213/155642835-fe6abb88-a308-4cfc-8cff-b43fb46597a2.png)
+使用方法：
 	fetch origin：檢查是否有更新的檔案。
 	pull：將檔案拉到自己的電腦上。
 	push：將你自己做的檔案丟上去。
